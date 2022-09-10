@@ -1,0 +1,39 @@
+Altium Designer Pick and Place Locations
+E:\软件安全下载目录\asd\电路组资料\RM2020\电路2020\STM32_LQFP64通用开发板package(1)\F4中心板\Project Outputs for F4中心板\Pick Place for F4核心板.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       14/07/20
+Time:       20:55
+Revision:   0
+Variant:    No variations
+Units used: mil
+
+"Designator","Comment","Layer","Footprint","Center-X(mil)","Center-Y(mil)","Rotation","Description"
+"P2","HEADER","BottomLayer","HEADER_15x2_SMT_1.27MM","0.000","354.331","180","15X2 header"
+"P3","HEADER","BottomLayer","HEADER_15x2_SMT_1.27MM","0.000","-354.331","180","15X2 header"
+"P1","SWD/MX1.25","TopLayer","A1.25AW-4P","232.874","357.776","180",""
+"C14","18pF","TopLayer","0603C","-362.205","-287.402","360","Capacitor"
+"C13","18pF","TopLayer","0603C","-362.205","-66.929","360","Capacitor"
+"C12","2.2uF","BottomLayer","0603C","201.771","-98.425","90","Capacitor"
+"C11","100nF","BottomLayer","0603C","354.331","-136.220","180","Capacitor"
+"C10","100nF","BottomLayer","0603C","354.000","129.000","180","Capacitor"
+"R4","1k","BottomLayer","0603R","-389.370","103.900","90","Resistor"
+"R3","1k","BottomLayer","0603R","-327.362","103.900","270","Resistor"
+"LED1","Double_Color LED","TopLayer","0805LEDX2","-359.252","87.598","270",""
+"Y1","8MHz","TopLayer","NX3225GD","-366.142","-177.165","90","Crystal Oscillator"
+"U2","LDO_SOT23-5","BottomLayer","SOT-23-5_L","355.335","1.850","270",""
+"U1","STM32F405RGT6","TopLayer","LQFP_64","0.000","0.000","45","ARM Cortex-M4 32b MCU+FPU, 210DMIP, 1024 kB Flash, 192+4 kB RAM, 51 I/Os, 64-pin LQFP, -40 to +85癈, Tray"
+"RST","KEY","TopLayer","SW_3mmx4mm","-236.220","-429.134","180","Button"
+"R2","10k","BottomLayer","0603R","-86.614","104.450","270","Resistor"
+"R1","10k","BottomLayer","0603R","-98.566","-98.425","270","Resistor"
+"C9","100nF","BottomLayer","0603C","11.811","102.362","90","Capacitor"
+"C8","100nF","BottomLayer","0603C","101.659","-98.425","90","Capacitor"
+"C7","100nF","BottomLayer","0603C","51.603","-98.425","270","Capacitor"
+"C6","100nF","BottomLayer","0603C","-137.795","104.450","270","Capacitor"
+"C5","2.2uF","BottomLayer","0603C","69.685","102.362","90","Capacitor"
+"C4","2.2uF","BottomLayer","0603C","151.715","-98.425","90","Capacitor"
+"C3","1uF","BottomLayer","0603C","1.547","-98.425","270","Capacitor"
+"C2","100nF","BottomLayer","0603C","-48.510","-98.425","270","Capacitor"
+"C1","100nF","BottomLayer","0603C","-148.622","-98.425","90","Capacitor"
