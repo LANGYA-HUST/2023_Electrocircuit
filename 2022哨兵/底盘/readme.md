@@ -1,0 +1,2 @@
+F4为便于替换的主控最小系统
+PowerDetection为底盘版
